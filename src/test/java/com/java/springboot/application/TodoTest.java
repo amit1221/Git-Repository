@@ -1,4 +1,4 @@
-package com.java.springboot.Application;
+package com.java.springboot.application;
 
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.fail;

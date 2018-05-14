@@ -1,4 +1,4 @@
-package com.java.springboot.Application;
+package com.java.springboot.application;
 
 import java.net.URI;
 
